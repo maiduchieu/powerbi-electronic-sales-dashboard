@@ -1,6 +1,6 @@
 # 📊 Electronic Sales Dashboard
 
-Welcome to the Electronic Sales Dashboard — an interactive Power BI report that visualizes electronic product sales and shipment trends for Sep 2023 through Sep 2024.
+Electronic Sales Dashboard — Power BI report of product sales and shipment trends, Sept 2023–Sept 2024.
 
 ## What you will find here
 
